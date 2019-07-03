@@ -3,6 +3,8 @@
 using namespace std;
  
 int main() {
-   printf("Hello, world 213!\n");
-   return 0;
+
+ printf("Hello, world!\n"); 
+ cout << "Hello, Bangalore!" << endl;
+ return 0;
 }
